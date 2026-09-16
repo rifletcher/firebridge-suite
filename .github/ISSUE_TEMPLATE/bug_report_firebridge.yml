@@ -1,0 +1,12 @@
+name: Bug Report (Firebridge)
+description: Create a bug report for the Firebridge plugin
+title: "[Firebridge] "
+labels: ["bug", "Plugin: Firebridge"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: A clear and concise description of what the bug is.
+    validations:
+      required: true
