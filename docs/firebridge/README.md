@@ -1,4 +1,4 @@
-# Firebridge Plugin User Guide
+# Firebridge for JetBrains User Guide
 
 **Compatible IDEs:** IntelliJ IDEA, Android Studio, WebStorm, PyCharm, etc.
 

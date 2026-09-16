@@ -1,6 +1,6 @@
-name: Bug Report (Firebridge)
+name: Bug Report (Firebridge for JetBrains)
 description: Create a bug report for the Firebridge plugin
-title: "[Firebridge] "
+title: "[Firebridge for JetBrains] "
 labels: ["bug", "Plugin: Firebridge"]
 body:
   - type: textarea

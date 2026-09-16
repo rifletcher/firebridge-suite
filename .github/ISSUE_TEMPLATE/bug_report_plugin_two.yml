@@ -1,7 +1,7 @@
-name: Bug Report (Plugin Two)
+name: Bug Report (Firebridge for VS Code)
 description: Create a bug report for Plugin Two
-title: "[Plugin Two] "
-labels: ["bug", "Plugin: Two"]
+title: "[Firebridge for VS Code] "
+labels: ["bug", "Plugin: VS Code"]
 body:
   - type: textarea
     id: description
